@@ -2,8 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   line-height: 1.6;
   font-size: 18px;
 }
@@ -13,12 +12,13 @@ body {
 }
 
 a {
-  color: #f30000;
+  color: #0e7797;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #6dec4d
 }
 
 img {
